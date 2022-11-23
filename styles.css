@@ -1,0 +1,79 @@
+.navbar {
+  background-color: white !important;
+}
+
+a {
+  font-weight: 700;
+  color: #000 !important;
+}
+
+.actived {
+  color: #10c9c3 !important;
+}
+
+.container {
+  margin: 0;
+  padding: 0;
+
+  width: 100%;
+}
+
+.img-div {
+  background-image: url("banner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  padding: 100px 0 100px;
+}
+
+.title {
+  text-align: center;
+  color: #fff;
+  padding: 0 37%;
+}
+
+.title h1 {
+  margin-bottom: 20px;
+}
+
+.title p {
+  font-size: small;
+}
+
+.btn {
+  padding: 15px 35px;
+  font-size: 10px;
+  background-color: #10c9c3 !important;
+}
+
+.icons {
+  background-color: #10c9c3;
+  color: #fff;
+  padding: 100px 10%;
+}
+
+i {
+  font-size: 5rem;
+}
+
+.about {
+  padding: 50px;
+}
+
+.col-about {
+  padding: 100px;
+}
+
+.col-img {
+  background-image: url("China.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  height: 700px;
+}
+
+.row.footer {
+  background-color: #141414;
+  color: #fff;
+  padding: 100px 30%;
+}
